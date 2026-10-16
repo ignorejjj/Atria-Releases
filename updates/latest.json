@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "repository": "ignorejjj/Atria-Releases",
+  "version": "0.1.2-beta.12",
+  "publishedAt": "2026-10-16T04:15:23.000Z",
+  "releaseUrl": "https://github.com/ignorejjj/Atria-Releases/releases/tag/v0.1.2-beta.12",
+  "artifacts": [
+    {
+      "name": "Atria-0.1.2-beta.12-mac-arm64.dmg",
+      "size": 174909357,
+      "sha256": "b6fff87a0a55c3fcba9b945da6b6369d70208572053da19e8e6da6fd73c1b51b",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/Atria-0.1.2-beta.12-mac-arm64.dmg"
+    },
+    {
+      "name": "Atria-0.1.2-beta.12-mac-arm64.dmg.sha256",
+      "size": 100,
+      "sha256": "39e46e97211c86a63895c161f106eefe19fac6029c5ae3e728d95aab4386bf60",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/Atria-0.1.2-beta.12-mac-arm64.dmg.sha256"
+    },
+    {
+      "name": "atria-cowork-cli-0.1.2-beta.12.tgz",
+      "size": 38744912,
+      "sha256": "35097565f3dba8f232f6711084511adf3c213c982a405a5ff4ed69a365df58b2",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/atria-cowork-cli-0.1.2-beta.12.tgz"
+    },
+    {
+      "name": "atria-cowork-cli-0.1.2-beta.12.tgz.sha256",
+      "size": 101,
+      "sha256": "f7ee849a9d0848a760e2729186c37fc3338586722b35c4d750d198a0e95eb6f9",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/atria-cowork-cli-0.1.2-beta.12.tgz.sha256"
+    },
+    {
+      "name": "Atria-0.1.2-beta.12-mac-arm64.signing.json",
+      "size": 655,
+      "sha256": "48a22f60240bac5905d2e236e34918fdd207ee3ec8f73136854493bf8f87dbd5",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/Atria-0.1.2-beta.12-mac-arm64.signing.json"
+    },
+    {
+      "name": "Atria-0.1.2-beta.12-mac-arm64.signing.json.sha256",
+      "size": 109,
+      "sha256": "c8cb6cd3655ad6756e4bce50c9f1c6e84663cb2b29533fc63eebb8f4e92f729f",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/Atria-0.1.2-beta.12-mac-arm64.signing.json.sha256"
+    },
+    {
+      "name": "atria-release-0.1.2-beta.12.json",
+      "size": 1493,
+      "sha256": "78e15cdd3056492f7af91eac33bcc229764e703fc839bef46d31a8867a8e2f62",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/atria-release-0.1.2-beta.12.json"
+    },
+    {
+      "name": "atria-release-0.1.2-beta.12.json.sha256",
+      "size": 99,
+      "sha256": "530c60801031b2f5ad8355d12be283ca5d712ee6f7987e06d31c8974c15a1ecb",
+      "url": "https://github.com/ignorejjj/Atria-Releases/releases/download/v0.1.2-beta.12/atria-release-0.1.2-beta.12.json.sha256"
+    }
+  ]
+}
